@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<name>OriNoteFormatter</name>
+<type>edit</type>
+<author>GuanjieCao</author>
+<description>Format original notes !</description>
+<engine>python2.7</engine>
+<engine>python3.4</engine>
+<version>1.2.8</version>
+<autostart>true</autostart>
+<oslist>osx,unx,win</oslist>
+</plugin>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="F:/LRtec/jars/Java--htmlparser1_6/lib/filterbuilder.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/F:/LRtec/jars/Java--htmlparser1_6/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/LRtec/jars/Java--htmlparser1_6/lib/htmllexer.jar" sourcepath="F:/LRtec/jars/Java--htmlparser1_6/src/src/src.rar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/F:/LRtec/jars/Java--htmlparser1_6/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/LRtec/jars/Java--htmlparser1_6/lib/htmlparser.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/F:/LRtec/jars/Java--htmlparser1_6/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/LRtec/jars/Java--htmlparser1_6/lib/junit.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/F:/LRtec/jars/Java--htmlparser1_6/docs/javadoc/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="file:/F::/LRtec/jars/Java--htmlparser1_6/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/LRtec/jars/Java--htmlparser1_6/lib/sax2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/F:/LRtec/jars/Java--htmlparser1_6/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/LRtec/jars/Java--htmlparser1_6/lib/thumbelina.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/F:/LRtec/jars/Java--htmlparser1_6/docs/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

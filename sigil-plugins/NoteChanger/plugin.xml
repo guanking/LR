@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>NoteChanger</name>
+	<type>output</type>
+	<author>GuanjieCao DaNai</author>
+	<description>change notation according to class of P tag</description>
+	<engine>python3.4</engine>
+	<engine>python2.7</engine>
+	<version>1.1.5</version>
+	<autostart>true</autostart>
+	<oslist>osx,win,unx</oslist>
+</plugin>
